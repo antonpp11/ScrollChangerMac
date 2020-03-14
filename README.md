@@ -16,7 +16,8 @@ Installation instructions:
 4. Open the ScriptEditor settings
     ![](Images/Settings.png)
     
-5. Select "Show Script menu in menu bar"
+5. Select "Show Script menu in menu bar" 
+
     ![](Images/Menubar.png)
 
 6. Click on the ScriptEditor logo in the menu bar, and select ScrollChanger
