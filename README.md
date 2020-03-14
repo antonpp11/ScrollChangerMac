@@ -3,7 +3,7 @@ If you are like me, you like to use the trackpad on your Mac with natural scroll
 This simple script resides in your Menubar and with a simple click, you can just switch the scrolling for the device you like.
 
 
-Installation instructions:
+# Installation instructions:
 
 1. Download the ZIP file and double-click it to expand it.
 
@@ -29,4 +29,6 @@ Installation instructions:
     ![](Images/Menubar2.png)
     
 7.  Accept every system preference prompt, and you are good to go!
+
+# Have fun!
     
