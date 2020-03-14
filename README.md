@@ -8,9 +8,11 @@ Installation instructions:
 1. Download the ZIP file and double-click it to expand it.
 
 2. If the ZIP file downloaded to your "Downloads" folder, use the following command:
-    '''cp ~/Downloads/ScrollChangerMac-master/ScrollChanger.scpt ~/Library/Scripts/'''
+    '''
+    cp ~/Downloads/ScrollChangerMac-master/ScrollChanger.scpt ~/Library/Scripts/
+    '''
 
-3. Using spotlight (CMD-d), open the ScriptEditor app
+3. Using spotlight (CMD-space), open the ScriptEditor app
 
     ![](Images/Spotlight.png)
 
