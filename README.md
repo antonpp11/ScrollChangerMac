@@ -11,9 +11,11 @@ Installation instructions:
     '''cp ~/Downloads/ScrollChangerMac-master/ScrollChanger.scpt ~/Library/Scripts/'''
 
 3. Using spotlight (CMD-d), open the ScriptEditor app
+
     ![](Images/Spotlight.png)
 
 4. Open the ScriptEditor settings
+
     ![](Images/Settings.png)
     
 5. Select "Show Script menu in menu bar" 
@@ -21,6 +23,7 @@ Installation instructions:
     ![](Images/Menubar.png)
 
 6. Click on the ScriptEditor logo in the menu bar, and select ScrollChanger
+
     ![](Images/Menubar2.png)
     
 7.  Accept every system preference prompt, and you are good to go!
